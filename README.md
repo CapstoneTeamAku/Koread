@@ -37,5 +37,5 @@ React, Node.js, MySql
 
 # Koread 시연영상
 
-
+https://github.com/CapstoneTeamAku/Koread/assets/89382407/cd9a4cda-d2e2-4472-9bfc-bfa80a235fc5
 
