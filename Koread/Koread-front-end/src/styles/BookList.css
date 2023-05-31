@@ -1,0 +1,147 @@
+.contentBookList {
+    width: 100%;
+}
+.contentBookListSection {
+    max-width: 920px;
+}
+.contentTop {
+    height: 120px;
+    display: flex;
+    position: relative;
+    margin-bottom: 40px;
+}
+/*
+.backIconGray {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 48px;
+    height: 48px;
+}
+*/
+.pageNameBox {
+    width: 160px;
+    color: #009922;
+    font-size: 24px;
+    padding: 60px;
+}
+
+.pageArticleBox{
+    margin-top: 52px;
+    width: 640px;
+    height: 40px;
+    border: 1px solid #DBDBDB;
+    border-radius: 20px;
+    background-color: #FFFDEE;
+    position: relative;
+}
+
+.pageMessage {
+    position: absolute;
+    top: 12px;
+    left: 20px;
+}
+
+.bestsellerBookList {
+    margin-left: 60px;
+    display: block;
+}
+
+.newBookList {
+    margin-left: 60px;
+    display: block;
+}
+
+.bestsellerBookElement {
+    width: 860px;
+    height: 400px;
+    border-top: 1px solid #DBDBDB;
+    display: flex;
+}
+
+.newBookElement {
+    width: 860px;
+    height: 400px;
+    border-top: 1px solid #DBDBDB;
+    display: flex;
+}
+
+.bookImg {
+    padding-top: 20px;
+    width: 240px;
+    height: 320px;
+}
+
+.infoBox {
+    display: flex;
+    margin-left: 60px;
+    font-size: 16px;
+}
+.bookInfo {
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+    padding-top: 50px;
+}
+.bookInfo li {
+    width: 200px;
+    height: 70px;
+}
+
+.priceInfo {
+    position: relative;
+    left: 300px;
+    bottom: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 60px;
+    padding-top: 50px;
+}
+.priceInfo li {
+    width: 200px;
+    height: 70px;
+}
+.buylink{
+    cursor: pointer;
+}
+.addwishlist{
+    cursor: pointer;
+}
+
+.title\#0,
+.title\#1,
+.title\#2,
+.title\#3,
+.title\#4,
+.title\#5,
+.title\#6,
+.title\#7,
+.title\#8,
+.title\#9 {
+    font-weight: bold;
+}
+.regularPrice\#0,
+.regularPrice\#1,
+.regularPrice\#2,
+.regularPrice\#3,
+.regularPrice\#4,
+.regularPrice\#5,
+.regularPrice\#6,
+.regularPrice\#7,
+.regularPrice\#8,
+.regularPrice\#9 {
+
+    font-size: 1.3rem;
+}
+.discountPrice\#0,
+.discountPrice\#1,
+.discountPrice\#2,
+.discountPrice\#3,
+.discountPrice\#4,
+.discountPrice\#5,
+.discountPrice\#6,
+.discountPrice\#7,
+.discountPrice\#8,
+.discountPrice\#9 {
+
+    font-size: 1.3rem;
+}

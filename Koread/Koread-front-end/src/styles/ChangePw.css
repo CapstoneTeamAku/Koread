@@ -1,0 +1,55 @@
+.change-pw-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 600px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border: solid;
+    border-color: #007bff;
+  }
+  
+  .changepwtext{
+    font-size: 25px;
+
+  }
+
+  .change-pw-container h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .change-pw-container input {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .change-pw-container button {
+
+    width: 30%;
+    padding: 10px;
+    margin-right: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .change-pw-container p {
+    color: red;
+    margin: 10px 0;
+  }
+
+  .submit{
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+    
+  }

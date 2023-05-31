@@ -1,0 +1,12 @@
+.errorBox {
+    width: 100%;
+    background-color: #F2F2F2;
+}
+
+.errorCode {
+    color: #0059C2;
+}
+
+.errorMessage {
+    color: #009922;
+}

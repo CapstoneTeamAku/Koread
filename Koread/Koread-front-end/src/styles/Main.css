@@ -1,0 +1,308 @@
+.main {
+    min-width: 1320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+
+.middleBannerArea {
+    background-color: #F2F2F2;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    width: 980px;
+    height: 400px;
+    margin: 40px 0;
+}
+.middleBanner {
+    width: 940px;
+    height: 360px;
+}
+.middleBannerArea img{
+    position: relative;
+    right: 20px;
+    bottom: 10px;
+    width: 980px;
+    height: 402px;
+}
+
+.bannerImg01 {
+    margin-top: 8px;
+    margin-left: 20px;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.bookContentArea {  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 80px;
+    width: 980px;
+}
+
+.bestsellerArea {
+    width: 980px;
+    height: 450px;
+}
+
+.bestsellerWrapTitle {
+    font-size: 1em;
+    font-weight: bold;
+    width: 18%;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #003399;
+}
+
+.bestsellerTitleLink {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainPlusIcon {
+    width: 15%;
+    height: 15%;
+}
+
+.bestsellerContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.bestsellerList {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.smallCoverImage {
+    margin-top: 20px;
+    background-color: #DBDBDB;
+    width: 140px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.smallCoverImage img{
+    width: 140px;
+    height: 200px;
+  }
+
+.smallBooksInfo {
+    margin-top: 12px;
+
+    width: 140px;
+    height: 90px;
+    font-size: 80%;
+    display: block;
+    justify-content: left;
+    align-content: center;
+}
+
+
+.smallBooksInfo p {
+    padding-top: 2px;
+    padding-left: 4px;
+    margin: 0;
+}
+
+.smallBooksInfoTitle{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.newBooksArea {
+    width: 980px;
+    height: 450px;
+}
+
+.newBooksWrapTitle {
+    font-size: 1em;
+    font-weight: bold;
+    width: 18%;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #003399;
+}
+
+.newBooksTitleLink {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.newBooksContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.newBooksList {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.boardArea {
+    width: 980px;    
+    height: 500px;
+}
+
+.boardWrap {
+    width: 100%;
+}
+
+.boardTitle {
+    font-size: 1em;
+    font-weight: bold;
+    width: 18%;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #003399;
+}
+
+.boardTitleLink {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boardContainer {
+    width: 100%;
+    height: 300px;
+    background-color: #F2F2F2;
+}
+
+.boardList {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.postLine {
+    font-weight: bold;
+    width: 100%;
+    border: 1px solid #DBDBDB;
+}
+.postContent {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.liCenter {
+    display: flex;
+    justify-content: center;
+}
+.postNum {
+    width: 99px;
+    padding: 4px 0;
+    border-right: 1px solid #DBDBDB;
+}
+.postTitle {
+    width: 399px;
+    padding: 4px 0;
+    border-right: 1px solid #DBDBDB;
+}
+.postUser {
+    width: 159px;
+    padding: 4px 0;
+    border-right: 1px solid #DBDBDB;
+}
+.postDate {
+    width: 159px;
+    padding: 4px 0;
+    border-right: 1px solid #DBDBDB;
+}
+.postView {
+    width: 79px;
+    padding: 4px 0;
+    border-right: 1px solid #DBDBDB;
+}
+.postLike {
+    width: 79px;
+    padding: 4px 0;
+}
+
+.BoardListContainer{
+    position: relative;
+    width: 1000px;
+    height: 400px;
+
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    background-color: #d9d9d9;
+    margin-bottom: 8px;
+    }
+
+.header-item {
+flex: 1;
+text-align: center;
+font-weight: bold;
+
+}
+
+.post {
+display: flex;
+align-items: center;
+width: 100%;
+height: 28px;
+background-color: #ffffff;
+border-bottom: solid;
+border-color: #bfbfbf;
+border-width: thin;
+}
+
+.post-item-num {
+    flex: 1;
+    text-align: center;
+    }
+    
+    .post-item-title {
+    flex: 1;
+    text-align: center;
+    cursor: pointer;
+    }
+    
+    .post-item-writer {
+    flex: 1;
+    text-align: center;
+    }
+    
+    .post-item-writedate{
+    flex: 1;
+    text-align: center;
+    }
+    .post-item-views {
+      flex: 1;
+      text-align: center;
+      }
+    
+    .post-item-recommend{
+      flex: 1;
+      text-align: center;
+    }
+
+.writebtn {
+position: relative;
+left: 875px;
+width: 90px;
+height: 40px;
+font-size: 17px;
+margin-bottom: 100px;
+}

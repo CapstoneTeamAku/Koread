@@ -1,0 +1,15 @@
+.ql-editor {
+    min-height: 200px;
+  }
+  
+  .ql-editor.ql-blank::before {
+    color: rgba(0, 0, 0, 0.4);
+    content: attr(data-placeholder);
+    font-style: italic;
+    pointer-events: none;
+    position: absolute;
+  }
+
+.ql-container{
+    width: 500px;
+}

@@ -1,0 +1,81 @@
+.header {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #DBDBDB;
+}
+
+.headerWrap {
+    margin: 0;
+    min-width: 980px;
+    display: flex;
+    height: 160px;
+    background-color: #FFFFFF;
+}
+
+.headerLogoArea {
+    width: 220px;
+    font-size: 3rem;
+    margin-top: 64px;
+}
+
+.headerLogoHomeLink {
+    color: #003399;
+}
+
+.koread {
+    color: #003399;
+}
+
+.searchArea {
+    width: 560px;
+}
+
+.searchBox {
+    width: 400px;
+    height: 36px;
+    display: flex;
+    padding: 6px;
+    border: 3px solid #0059C2;
+    border-radius: 15px;
+    margin-top: 64px;
+    position: relative;
+}
+
+.searchBar {
+    border: none;
+    border-radius: 0px;
+    width: 88%;
+    margin: 0px;
+    outline: none;
+    padding-left: 10px;
+    border-right: 3px solid #0059C2;
+}
+
+.searchIcon {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 12px;
+    right: 15px;
+}
+
+.joinArea {
+    width: 200px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    list-style: none;
+    margin-top: 26px;
+}
+
+.headerSignUpBox {
+    margin-right: 20px;
+}
+
+.headerUserIdBox {
+    margin-right: 20px;
+}
+
+.userID {
+    color: #009922;
+}

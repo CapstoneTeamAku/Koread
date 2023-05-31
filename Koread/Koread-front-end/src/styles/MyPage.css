@@ -1,0 +1,168 @@
+.MypageContianer {
+    width: 100%;
+    height: 800px;
+
+    }
+    
+    .back-button {
+        position: relative;
+        top: 18px;
+        left: 30px;
+        width: 48px;
+        height: 48px;
+        background-image: url('../assets/go_back_icon_gray.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        border: none;
+        background-color: white;
+        }
+
+    .text{
+        position: relative;
+        width: 160px;
+        bottom: 15px;
+        left: 830px;
+        color: #009922;
+        font-size: 24px;
+    
+    }
+    
+    .profilebox{
+    
+    width: 454px;
+    height: 263px;
+    margin-left: 30px;
+    margin-right: 12px;
+    margin-top: 18px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #bfbfbf;
+    display: inline-block;
+    
+    }
+    
+    .profiletext{
+    margin: 10px;
+    
+    }
+    
+    .line {
+    border-top: 1px solid #e0e0e0;
+    margin: 0px;
+    margin-left: 10px;
+    width: 242px;        
+    }
+    
+    .profileUl {
+        list-style-type: none;
+        padding: 0;
+        padding-left: 20px;
+        display: flex;
+        flex-direction: column;
+        }
+        
+        .profileUl>li {
+        margin: 10px;
+        }
+    
+    .profileimg{
+    position: relative;
+    width: 96px;
+    height: 96px;
+    background-color: #bfbfbf;
+    background-image: url('../assets/profile_200x200.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    left: 340px;
+    bottom: 130px;
+    }
+    
+    .changepw{
+    position: relative;
+    width: 200px;
+    height: 40px;
+    bottom: 50px;
+    left: 30px;
+    }
+    
+    .recentbookbox{
+    position: relative;
+    width: 454px;
+    height: 263px;
+    bottom: 56px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #bfbfbf;
+    display: inline-block;
+    }
+    
+    .recenttext{
+    margin: 10px;
+    }
+    
+    
+    .mywishtext {
+        font-size: 18px;
+        font-weight: bold; 
+    
+        margin-left: none; 
+        margin-bottom: 30px;
+        }
+    
+    .recentbook1,
+    .recentbook2,
+    .recentbook3,
+    .recentbook4,
+    .recentbook5{
+    width: 320px;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: #bfbfbf;
+    text-align: center;
+    
+    }
+    
+    .recentbooktext1,
+    .recentbooktext2,
+    .recentbooktext3,
+    .recentbooktext4,
+    .recentbooktext5{
+        position: relative;
+        top: 5px;
+    }
+    
+    
+    .wishlistbox {
+    width: 920px;
+    height: 280px;
+    margin-left: 30px;
+    
+    }
+    
+    .wishlist1,
+    .wishlist2,
+    .wishlist3,
+    .wishlist4,
+    .wishlist5 {
+    width: 925px;
+    height: 36px;
+    margin-bottom: 6px;
+    background-color: #bfbfbf;
+    }
+    
+    .left {
+        position: absolute;
+        font-size: 20px;
+        padding-top: 5px;
+        left: 330px; 
+        }
+        
+    .right {
+        position: absolute;
+        width: 400px;
+        font-size: 20px;
+        padding-top: 5px;
+        left: 800px; 
+        }
