@@ -29,6 +29,6 @@ React, Node.js, MySql
 
 # 포스터 사진
 
-<img src='./images/[23년 1학기 SW캡스톤-포스터-아쿠(박지민)].png' width='550px'>
+<img src='./images/[23년 1학기 SW캡스톤-포스터-아쿠(박지민)].png'>
 
 
