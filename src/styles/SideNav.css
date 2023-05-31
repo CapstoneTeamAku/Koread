@@ -1,0 +1,52 @@
+.sideNavBar {
+    border-right: 1px solid #DBDBDB;
+    width: 282px;
+    height: 560px;
+    position: sticky;
+    top: 60px;
+}
+
+.navList {
+    margin: 0;
+    padding-top: 160px;
+    width: 282px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.navListElement {
+    width: 282px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.navPageBox {
+    width: 192px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navPageBox:hover {
+    height: 74px;
+    border-top: 3px solid #0059C2;
+    border-bottom: 3px solid #0059C2;
+}
+
+.navPageLink {
+    width: 192px;
+    height: 74px;
+    color: #003399;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navPageLink:hover {
+    color: #0059C2;
+    font-weight: bold;
+}

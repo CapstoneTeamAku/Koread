@@ -1,0 +1,83 @@
+.loginBody {
+    min-width: 1320px;
+    display: flex;
+    justify-content: center;
+}
+
+.loginBox {
+    background-color: #003399;
+    min-width: 480px;
+    height: 400px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    position: relative;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profileImg {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    top: -60px;
+    left: 160px;
+}
+
+.emailArea {
+    margin-top: 140px;
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 400px;
+    height: 40px;
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.textEmail {
+    width: 80px;
+    color: black;
+    padding-left: 16px;
+}
+
+.inputEmail {
+    width: 280px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    position: absolute;
+    left: 96px;
+}
+
+.passwordArea {
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 400px;
+    height: 40px;
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.textPassword {
+    width: 80px;
+    color: black;
+    padding-left: 16px;
+}
+
+.inputPassword {
+    width: 280px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    position: absolute;
+    left: 96px;
+}

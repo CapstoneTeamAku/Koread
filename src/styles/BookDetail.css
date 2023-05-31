@@ -1,0 +1,179 @@
+.BookDetailContainer {
+    width: 1440px;
+    height: 1360px;
+    margin: auto;
+  }
+
+  .back-button {
+    position: relative;
+    top: 18px;
+    left: 30px;
+    width: 48px;
+    height: 48px;
+    background-image: url('../assets/go_back_icon_gray.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    }
+  
+
+  
+  
+  .book-image {
+    width: 488.5px;
+    height: 720px;
+    background-color: #e0e0e0;
+    margin-left: 30px;
+    margin-top: 44px;
+    float: left;
+  }
+  .book-image img{
+    width: 488.5px;
+    height: 720px;
+  }
+  
+  .ulinfo{
+    list-style-type: none;
+    padding: 0;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  .firstli{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  
+  .lptext{
+    font-size: 20px;
+    width: 240px;
+    padding-left: 18px;
+    padding-top: 18px;
+  }
+  .pricetext{
+    padding-left: 18px;
+    width: 300px;
+    display: inline-block;
+    padding-bottom: 30px;
+  }
+  
+  .standardprice{
+    font-size: 28px;
+  
+  }
+  .discountprice{
+    font-size: 24px;
+    color: rgb(251, 177, 40);
+  }
+  
+  .wishlist {
+    position: relative;
+    top: 10px;
+    width: 46px;
+    height: 46px;
+    left: 10px;
+    background-image: url('../assets/wishlist.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    margin: 0;
+    display: inline-block;
+  }
+  
+  .lowpricebtn{
+
+    background-color: rgb(65, 65, 251);
+    color: white;
+    width: 220px;
+    height: 40px;
+    font-size: 18px;
+    margin-left: 18px;
+    
+  }
+
+  .infoBox{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .information {
+    width: 400px;
+    height: 200px;
+    background-color: #f7f7f7;
+    margin-left: 32px;
+    margin-top: 44px;
+    float: left;
+  }
+  
+  .lowest-price {
+    width: 400px;
+    height: 440px;
+    background-color: #e0e0e0;
+    margin-top: 32px;
+    margin-left: 32px;
+    float: left;
+    
+  }
+  
+  .pricebox1 {
+    width: 100%;
+    height: 40.33%;
+    background-color: #d9d9d9;
+  
+  }
+  
+  .pricebox2 {
+    width: 100%;
+    height: 70.33%;
+    background-color: #d9d9d9;
+  }
+  
+  .pricebox3 {
+    width: 360px;
+    height: 280px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 1px;
+  
+  }
+  
+  
+  /*아래 부분 박스로 수정예정*/
+  .price1{
+    padding: 5%;
+    margin: 5% ;
+    background-color: rgb(254, 250, 229);
+    border: solid;
+    border-width: thin;
+    border-color: #bfbfbf;
+    font-size: 17px;
+  }
+  .price2{
+    padding: 5%;
+    margin: 5% ;
+    background-color: rgb(254, 250, 229);
+    border: solid;
+    border-width: thin;
+    border-color: #bfbfbf;
+    font-size: 17px;
+  }
+  .price3{
+    padding: 5%;
+    margin: 5% ;
+    background-color: rgb(254, 250, 229);
+    border: solid;
+    border-width: thin;
+    border-color: #bfbfbf;
+    font-size: 17px;
+  }
+
+
+
+
+  .goNow1{
+    cursor:pointer;
+  }

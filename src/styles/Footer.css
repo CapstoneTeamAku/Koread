@@ -1,0 +1,65 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: #525252;
+    background-color: white;
+    border-top: solid 1px #DBDBDB;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.footerLogo {
+    font-size: 2rem;
+    color: black;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.footerTitle {
+    display: flex;
+    justify-content: left;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding: 0px;
+}
+
+.projectInfo {
+    margin-bottom: 30px;
+}
+
+.projectInfo li {
+    margin-left: 20px;
+    font-size: 50%;
+}
+
+.teamInfo {
+    margin-bottom: 30px;
+}
+
+.teamInfo li {
+    margin-left: 20px;
+    font-size: 50%;
+}
+
+.playerInfo {
+    margin-bottom: 80px;
+}
+
+.playerInfo li {
+    margin-left: 20px;
+    font-size: 50%;
+}
+
+.title {
+    font-weight: bold;
+}
