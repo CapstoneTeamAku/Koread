@@ -12,10 +12,14 @@
 
 팀원 : 구민성, 채명기, 김준혁, 류정원
 
+팀원별 활동내역
 https://github.com/CapstoneTeamAku/Capstone
 
 # 개발환경
 
 React, Node.js, MySql
 
+# 사용한 오픈 소스
+
+알라딘 open Api
 
