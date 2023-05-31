@@ -35,3 +35,7 @@ React, Node.js, MySql
 
 ![23년 1학기 SW캡스톤-포스터-아쿠(박지민)](https://github.com/CapstoneTeamAku/Koread/assets/89382407/7e3a37a9-7a8a-4c81-9ffa-ca0f185f700a)
 
+# Koread 시연영상
+
+
+
