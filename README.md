@@ -27,9 +27,11 @@ React, Node.js, MySql
 
 알라딘 open Api
 
-# 포스터 사진
+# ERD DB 설계
 
 ![ERD](https://github.com/CapstoneTeamAku/Koread/assets/89382407/041233f1-a83e-4372-91fd-e941deadd57f)
+
+# Koread 포스터
 
 ![23년 1학기 SW캡스톤-포스터-아쿠(박지민)](https://github.com/CapstoneTeamAku/Koread/assets/89382407/647f1d36-9e0c-4b64-a2db-ab12587cf57e
 
